@@ -1,2 +1,2 @@
 # AceAutomator
-Open source tool for automate processes without programming knowledge
+Open source tool to automate processes without previous programming knowledge.
